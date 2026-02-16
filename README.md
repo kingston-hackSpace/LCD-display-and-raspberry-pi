@@ -7,7 +7,7 @@
 
 <p>for using a rsapberry pi first install the following python dependencies in the terminal</p>
 
-<p>sudo pip3 install serial GPIO time json requests</p>
+```sudo pip3 install serial GPIO time json requests```
 
 <p>load the python file in this repository.</p>
 
